@@ -3,9 +3,9 @@
 
 Requires Docker for use of PostgreSQL.
 
-This is designed in part to resemble the standard boilerplates used for apps at LearningFuze. As an alumni, you should be able to understand all the tech here except for the `docker-compose.yml`. I have, however, split up some code into files which is usually contained in the `package.json` due to my own personal preference and for accessibility. 
+This is designed in part to resemble the standard boilerplates used for apps at LearningFuze. As an alumni, you should be able to understand all the tech here except for the `docker-compose.yml`. I have, however, split up some code into files which is usually contained in the `package.json` due to my own personal preference and for accessibility.
 
-This should also be very accessible to non- LFZ Alumni. 
+This should also be very accessible to non- LFZ Alumni.
 
 #### To use:
 

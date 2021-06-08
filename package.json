@@ -1,5 +1,5 @@
 {
-  "name": "postgres-movies-boilerplate",
+  "name": "simple-pern-boilerplate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/krlenell/react-express-boilerplate#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "pg": "^8.6.0",
     "react": "^17.0.1",
