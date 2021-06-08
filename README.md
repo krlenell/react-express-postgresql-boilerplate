@@ -14,6 +14,7 @@ This should also be very accessible to non- LFZ Alumni.
 # To use
 
 ```
+cp .env.example .env
 npm run dev
 ```
 
