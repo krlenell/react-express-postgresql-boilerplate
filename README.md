@@ -7,12 +7,22 @@ This is designed in part to resemble the standard boilerplates used for apps at 
 
 This should also be very accessible to non- LFZ Alumni.
 
-#### To use:
+# Docker currently not working. 
+
+`docker.compose.yml` can be deleted
+
+# To use
+
+```
+npm run dev
+```
+
+<!-- #### To use:
 
 ```
 cp .env.example.env
 docker compose up
-```
+``` -->
 
 Go to `localhost:3000`
 
